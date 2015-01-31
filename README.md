@@ -1,2 +1,2 @@
 # Doorcontrol
-TC Maker door control for the Arduino
+TC Maker door control for the Arduino side
